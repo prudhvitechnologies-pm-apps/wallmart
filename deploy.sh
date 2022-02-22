@@ -1,1 +1,2 @@
-hello this file contains deployment script..
+this is chinna
+this file contains deployment script..

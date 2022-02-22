@@ -1,5 +1,7 @@
 # This is Git's per-user configuration file.
 [user]
+	name = prudhvi
+	email = singapatiprudhvi@gmail.com
 # Please adapt and uncomment the following lines:
 #	name = Cloud User
 #	email = ec2-user@ip-172-31-40-100.ap-south-1.compute.internal
